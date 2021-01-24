@@ -1,0 +1,10 @@
+C:\Users\oeabi\source\repos\Week5\TaskB_Week5\TaskB_Week5\bin\Debug\TaskB_Week5.exe.config
+C:\Users\oeabi\source\repos\Week5\TaskB_Week5\TaskB_Week5\bin\Debug\TaskB_Week5.exe
+C:\Users\oeabi\source\repos\Week5\TaskB_Week5\TaskB_Week5\bin\Debug\TaskB_Week5.pdb
+C:\Users\oeabi\source\repos\Week5\TaskB_Week5\TaskB_Week5\obj\Debug\TaskB_Week5.csprojAssemblyReference.cache
+C:\Users\oeabi\source\repos\Week5\TaskB_Week5\TaskB_Week5\obj\Debug\TaskB_Week5.Form1.resources
+C:\Users\oeabi\source\repos\Week5\TaskB_Week5\TaskB_Week5\obj\Debug\TaskB_Week5.Properties.Resources.resources
+C:\Users\oeabi\source\repos\Week5\TaskB_Week5\TaskB_Week5\obj\Debug\TaskB_Week5.csproj.GenerateResource.cache
+C:\Users\oeabi\source\repos\Week5\TaskB_Week5\TaskB_Week5\obj\Debug\TaskB_Week5.csproj.CoreCompileInputs.cache
+C:\Users\oeabi\source\repos\Week5\TaskB_Week5\TaskB_Week5\obj\Debug\TaskB_Week5.exe
+C:\Users\oeabi\source\repos\Week5\TaskB_Week5\TaskB_Week5\obj\Debug\TaskB_Week5.pdb
